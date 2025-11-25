@@ -45,7 +45,7 @@ Built with **React Hooks**, **Context API**, and best practices for state manage
 <img src="https://github.com/user-attachments/assets/0b2e8a26-1588-4fdb-8c83-877525a9f1c5" alt="Main Chat Page" width="600" />
 
 ### Expanded Sidebar with Chat History
-<img src="https://github.com/user-attachments/assets/48ad508f-90bb-468e-8562-2267572f5971" alt="Sidebar Expanded" width="600" />
+<img src="https://github.com/user-attachments/assets/48ad508f-90bb-468e-8562-2267572f5971" alt="Sidebar Expanded" width="600" height="800" />
 
 ---
 
